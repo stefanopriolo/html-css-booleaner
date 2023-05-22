@@ -4,10 +4,10 @@ body {
 .head_container {
     background-color:#4EA0FF ;
     background-image: url(../img/pattern.png);
-    background-size: 25%;
+    background-size: 17%;
     height: 80px;
 }
 #logo {
-   width: 12%;
-  
+   width: 10%;
+  margin: 25px;
 }
