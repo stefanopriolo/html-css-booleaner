@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+.head_container {
+    background-color:#4EA0FF ;
+    background-image: url(../img/pattern.png);
+    background-size: 25%;
+    height: 80px;
+}
+#logo {
+   width: 12%;
+  
+}
