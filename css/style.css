@@ -69,3 +69,28 @@ table {
 .tr_color {
     background-color: #B2E5F1;
 }
+
+.img_footer {
+    width: 10%;
+}
+
+.footer {
+    color: white;
+    text-align: center;
+    font-size: 140%;
+    
+}
+
+.footer_img {
+    background-image: url(../img/monitor.jpg);
+    line-height: 60px;
+    width: 240px;
+    height: 150px;
+}
+
+.footer_img2 {
+    background-image: url(../img//graph.jpg);
+    line-height: 60px;
+    width: 240px;
+    height: 150px;
+}
