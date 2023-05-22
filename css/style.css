@@ -52,3 +52,20 @@ body {
 .bg_yellow {
     background-color: yellow;
 }
+
+table {
+    border-collapse: collapse;
+    width: 1300px;
+    height: 200px;
+
+}
+
+.thead {
+    color: white;
+    background-color: #23A9E5;
+
+}
+
+.tr_color {
+    background-color: #B2E5F1;
+}
